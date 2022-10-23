@@ -1,2 +1,0 @@
-class Subscript < ApplicationRecord
-end
